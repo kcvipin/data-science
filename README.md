@@ -1,8 +1,9 @@
 # Data Scientist
-### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+### Technical Skills: Python, SQL, Power BI, Tableau, Excel
 
 ## Education
-- M.Sc Statistics  | Department of Statistical Sciences Kannur University (Apr 2021)
+- M.Sc Statistics  | Department of Statistical Sciences
+                     Kannur University (Apr 2021)
 - B.Sc Mathematics | Sree Narayana College Kannur (Apr 2019)
 
 ## Work Experience
