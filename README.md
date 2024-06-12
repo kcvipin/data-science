@@ -2,8 +2,8 @@
 ### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- M.Sc., Statistics  | Department of Statistical Sciences Kannur University (Apr 2021)
-- B.Sc., Mathematics | Sree Narayana College Kannur (Apr 2019)
+- M.Sc Statistics  | Department of Statistical Sciences Kannur University (Apr 2021)
+- B.Sc Mathematics | Sree Narayana College Kannur (Apr 2019)
 
 ## Work Experience
 **Data Science Trainer @ IPCS Global Kannur (January 2024 - Present)**
