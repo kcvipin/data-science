@@ -8,9 +8,16 @@
 
 ## Work Experience
 **Data Science Trainer @ IPCS Global Kannur (January 2024 - Present)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses.
+- **Training:** Delivered comprehensive data science training programs for corporate clients and individuals, covering Python, R, machine learning, and data visualization.
+- **Curriculum Development:** Designed and updated course materials, including real-world case studies and coding exercises.
+- **Project Support:** Provided training and project support within the department and branch, ensuring the successful execution of training programs.
+- **Event Coordination:** Organized and executed technical training programs, career enhancement seminars, and workshops at colleges and training centers.
+- **Student Engagement:** Conducted frequent student assessments, provided feedback, and reported analysis to higher management.
+- **Marketing Support:** Contributed to marketing activities and maintained competitor updates.
+- **Content Creation:** Engaged in blogging and supported various programs as advised by management.
+- **Student Relations:** Built strong relationships with students and gathered feedback to improve training programs.
   
 **Data Science Intern @ Ai variant (June 2022 - February 2023)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- **Project Participation:** Contributed to two data science projects, involving data collection, cleaning, and preprocessing.
+- **Analysis and Modeling:** Assisted in developing machine learning models, performing statistical analyses, and interpreting results.
+- **Reporting:** Prepared reports and visualizations to communicate findings and insights to the project team and stakeholders.
