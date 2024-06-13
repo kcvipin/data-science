@@ -8,7 +8,7 @@
                      Kannur University (Apr 2021)
 - B.Sc Mathematics  Sree Narayana College Kannur (Apr 2019)
 <br>
-***
+
 ## Work Experience
 
 **Data Science Trainer @ IPCS Global Kannur (January 2024 - Present)**
