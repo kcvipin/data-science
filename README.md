@@ -8,14 +8,10 @@
 
 ## Work Experience
 **Data Science Trainer @ IPCS Global Kannur (January 2024 - Present)**
-- **Training:** Delivered comprehensive data science training programs for corporate clients and individuals, covering Python, R, machine learning, and data visualization.
-- **Curriculum Development:** Designed and updated course materials, including real-world case studies and coding exercises.
-- **Project Support:** Provided training and project support within the department and branch, ensuring the successful execution of training programs.
-- **Event Coordination:** Organized and executed technical training programs, career enhancement seminars, and workshops at colleges and training centers.
-- **Student Engagement:** Conducted frequent student assessments, provided feedback, and reported analysis to higher management.
-- **Marketing Support:** Contributed to marketing activities and maintained competitor updates.
-- **Content Creation:** Engaged in blogging and supported various programs as advised by management.
-- **Student Relations:** Built strong relationships with students and gathered feedback to improve training programs.
+- **Comprehensive Training Programs:** Delivered in-depth data science training to corporate clients and individuals, covering essential topics such as Python, R, machine learning, and data visualization. Designed and updated course materials, incorporating real-world case studies and practical coding exercises to enhance learning outcomes.
+- **Project and Student Support:** Provided extensive support for training projects within the department and branch, ensuring successful program execution. Conducted frequent student assessments, gathered feedback, and reported findings to higher management to continuously improve training effectiveness. Built strong relationships with students to foster a positive learning environment.
+- **Event and Workshop Coordination:** Organized and led technical training programs, career enhancement seminars, and workshops at colleges and training centers. Acted as a key figure in various company-organized training programs, enhancing student engagement and learning experiences.
+- **Marketing and Content Creation:** Contributed to marketing activities by providing inputs and maintaining competitor updates. Engaged in blogging and supported various programs as advised by management to promote the training division and attract new candidates.
   
 **Data Science Intern @ Ai variant (June 2022 - February 2023)**
 - **Project Participation:** Contributed to two data science projects, involving data collection, cleaning, and preprocessing.
