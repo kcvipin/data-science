@@ -10,7 +10,6 @@
 - B.Sc Mathematics | Sree Narayana College Kannur (Apr 2019)
 
 
-
 ## Work Experience
 
 **Data Science Trainer @ IPCS Global Kannur (January 2024 - Present)**
