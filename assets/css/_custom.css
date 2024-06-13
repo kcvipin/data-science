@@ -1,0 +1,8 @@
+.site-header .site-title {
+  text-align: left;
+}
+
+.site-header .site-logo {
+  float: left;
+  margin-right: 20px; /* Adjust this value to control space between logo and text */
+}
