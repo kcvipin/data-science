@@ -1,6 +1,4 @@
 # Data Scientist
-> **Technical Skills: Python, SQL, Power BI, Tableau, Excel**
-
 
 <table><tr><td><strong>Technical Skills: Python, SQL, Power BI, Tableau, Excel</strong></td></tr></table>
 
