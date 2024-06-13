@@ -2,16 +2,14 @@
 
 <table><tr><td><strong>Technical Skills: Python, SQL, Power BI, Tableau, Excel</strong></td></tr></table>
 
-<br> <br>
----
+***
 
 ## Education
 - M.Sc Statistics   Department of Statistical Sciences
                      Kannur University (Apr 2021)
 - B.Sc Mathematics  Sree Narayana College Kannur (Apr 2019)
   
-<br> <br>
----
+***
 
 ## Work Experience
 
