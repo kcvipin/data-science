@@ -3,9 +3,9 @@
 > __Technical Skills: Python, SQL, Power BI, Tableau, Excel__
 
 ## Education
-- M.Sc Statistics | Department of Statistical Sciences
+- M.Sc Statistics - Department of Statistical Sciences
                      Kannur University (Apr 2021)
-- B.Sc Mathematics | Sree Narayana College Kannur (Apr 2019)
+- B.Sc Mathematics - Sree Narayana College Kannur (Apr 2019)
 
 
 ***
@@ -28,7 +28,7 @@
 - **Project Participation:** Contributed to two data science projects, involving data collection, cleaning, and preprocessing.
 
   
-- **Analysis and Modeling:** Assisted in developing machine learning models, performing statistical analyses, and interpreting results.
+- **Analysis and Modeling:** Assisted in developing machine learning models, performing statistical analysis, and interpreting results.
 
   
 - **Reporting:** Prepared reports and visualizations to communicate findings and insights to the project team and stakeholders.
