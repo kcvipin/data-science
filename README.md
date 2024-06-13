@@ -27,5 +27,9 @@
 
 **Data Science Intern @ Ai variant (June 2022 - February 2023)**
 - **Project Participation:** Contributed to two data science projects, involving data collection, cleaning, and preprocessing.
+
+  
 - **Analysis and Modeling:** Assisted in developing machine learning models, performing statistical analyses, and interpreting results.
+
+  
 - **Reporting:** Prepared reports and visualizations to communicate findings and insights to the project team and stakeholders.
