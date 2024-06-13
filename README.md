@@ -2,7 +2,7 @@
 
 <table><tr><td><strong>Technical Skills: Python, SQL, Power BI, Tableau, Excel</strong></td></tr></table>
 
-***
+
 
 ## Education
 - M.Sc Statistics   Department of Statistical Sciences
