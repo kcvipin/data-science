@@ -1,8 +1,8 @@
 # Data Scientist
 > Technical Skills: Python, SQL, Power BI, Tableau, Excel
-
 <br>
 ***
+
 ## Education
 - M.Sc Statistics   Department of Statistical Sciences
                      Kannur University (Apr 2021)
@@ -10,6 +10,7 @@
 <br>
 ***
 ## Work Experience
+
 **Data Science Trainer @ IPCS Global Kannur (January 2024 - Present)**
 - **Comprehensive Training Programs:** Delivered in-depth data science training to corporate clients and individuals, covering essential topics such as Python, R, machine learning, and data visualization. Designed and updated course materials, incorporating real-world case studies and practical coding exercises to enhance learning outcomes.
 - **Project and Student Support:** Provided extensive support for training projects within the department and branch, ensuring successful program execution. Conducted frequent student assessments, gathered feedback, and reported findings to higher management to continuously improve training effectiveness. Built strong relationships with students to foster a positive learning environment.
