@@ -36,7 +36,7 @@
 
 ***
 
-## Project 1: Book Recommendation System
+### Project 1: Book Recommendation System
 Developed a sophisticated book recommendation system aimed at providing personalized reading suggestions based on user preferences. Using Python, I meticulously curated a dataset by selecting books rated by a substantial user base of at least 100 readers, focusing on users who had rated a minimum of 50 books to ensure robust interaction data. The dataset was structured into a pivot table format, with users as rows and books as columns and missing values were strategically filled with zeros to facilitate accurate similarity calculations.
 
 To enhance recommendation accuracy, I employed cosine similarity to construct a user-user similarity matrix, enabling the system to identify and match users with similar reading tastes. The recommendation engine utilizes these insights to suggest top-rated books aligned with the preferences of comparable users, thereby enriching the reading experience through tailored recommendations.
@@ -47,7 +47,7 @@ This project underscores the application of advanced data analytics to deliver e
 
 ![Alt text](assets/img/recommender sysytem.jpg)
 
-## Project 2: Apple Stock Price Forecasting
+### Project 2: Apple Stock Price Forecasting
 Implemented an advanced time series forecasting model to predict Apple stock prices. The project involved rigorous data preprocessing and evaluation of various modeling techniques, including ARIMA, SARIMA, and Holt-Winters exponential smoothing. The SARIMA model was selected for its robust capability to capture seasonal trends. Utilizing Streamlit for deployment, the interface allows users to input their desired forecasting periods and visualize predicted stock prices alongside historical data. This project exemplifies the application of sophisticated time series analysis for accurate financial forecasting.
 
 ![Alt text](assets/img/forecast.jpg)
