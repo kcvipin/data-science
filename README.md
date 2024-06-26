@@ -63,29 +63,29 @@ Identify key factors influencing employee attrition.
 Provide actionable insights to improve employee retention strategies.
 #### Datasets Used:
 
-__HR Dataset 1:__
+- __HR Dataset 1:__
 Columns: Age, Attrition, BusinessTravel, DailyRate, Department, DistanceFromHome, Education, EducationField, EmployeeCount, EmployeeNumber, EnvironmentSatisfaction, Gender, HourlyRate, JobInvolvement, JobLevel, JobRole, JobSatisfaction, MaritalStatus.
-__HR Dataset 2:__
+- __HR Dataset 2:__
 Columns: Employee ID, Year of Joining, Month of Joining, Day of Joining, MonthlyIncome, MonthlyRate, NumCompaniesWorked, Over18, OverTime, PercentSalaryHike, PerformanceRating, RelationshipSatisfaction, StandardHours, StockOptionLevel, TotalWorkingYears, TrainingTimesLastYear, WorkLifeBalance, YearsAtCompany, YearsInCurrentRole, YearsSinceLastPromotion, YearsWithCurrManager.
 #### Key Metrics and Visualizations:
 
-Total Number of Employees: Displays the total count of employees.
-Attrition Rate over Time: A line chart showing the trend of attrition rates from 1985 to 2020.
-Average Tenure: Shows the average length of time employees stay with the company.
-Attrition Rate of Newly Hired Employees: Highlights the attrition rate specifically for newly hired employees.
-Employee Distribution and Attrition Trend Across Age Groups: A line and stacked column chart displaying the employee count and attrition rate across different age groups.
-Attrition by Department: A donut chart showing the attrition rate across various departments.
-Attrition by Job Satisfaction: Donut charts illustrating the relationship between job satisfaction levels and attrition.
+- Total Number of Employees: Displays the total count of employees.
+- Attrition Rate over Time: A line chart showing the trend of attrition rates from 1985 to 2020.
+- Average Tenure: Shows the average length of time employees stay with the company.
+- Attrition Rate of Newly Hired Employees: Highlights the attrition rate specifically for newly hired employees.
+- Employee Distribution and Attrition Trend Across Age Groups: A line and stacked column chart displaying the employee count and attrition rate across different age groups.
+- Attrition by Department: A donut chart showing the attrition rate across various departments.
+- Attrition by Job Satisfaction: Donut charts illustrating the relationship between job satisfaction levels and attrition.
 #### Tools and Technologies:
 
-__Power BI:__ For data visualization and dashboard creation.
-__DAX (Data Analysis Expressions):__ For creating calculated columns and measures.
+- __Power BI:__ For data visualization and dashboard creation.
+- __DAX (Data Analysis Expressions):__ For creating calculated columns and measures.
 #### Insights and Impact:
 
-Attrition Trends: Identifies periods with significant attrition, aiding in the timing of interventions.
-Age Group Analysis: Reveals which age groups are more prone to attrition.
-Departmental Insights: Identifies departments with high turnover rates.
-Job Satisfaction: Highlights the importance of employee engagement initiatives.
+- Attrition Trends: Identifies periods with significant attrition, aiding in the timing of interventions.
+- Age Group Analysis: Reveals which age groups are more prone to attrition.
+- Departmental Insights: Identifies departments with high turnover rates.
+- Job Satisfaction: Highlights the importance of employee engagement initiatives.
 #### Visual Overview:
 ![Alt text](assets/img/HR attrition dashboard.jpg)
 
